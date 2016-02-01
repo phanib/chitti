@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Phaneendra <phani.brahma@gmail.com>",
-  "description": "I'm Pinsight's robot. I'm here to dramatically improve and reduce Pinsight's employee efficiency.",
+  "description": "I'm Pinsight's robot. I'm here to dramatically improve and reduce Pinsight's employeee efficiency.",
   "dependencies": {
     "hubot": "^2.18.0",
     "hubot-diagnostics": "0.0.1",
