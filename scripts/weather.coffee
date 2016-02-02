@@ -3,7 +3,7 @@
 #
 # Configuration:
 #   HUBOT_WEATHER_CELSIUS - Display in celsius
-   HUBOT_FORECAST_API_KEY = a5807716232e4d0fb7a022609ebe5242
+#   HUBOT_FORECAST_API_KEY - Forecast.io API Key
 #
 # Commands:
 #   hubot weather <city> - Get the weather for a location.
