@@ -1,4 +1,5 @@
 [
 "cricket.coffee",
-"weather.coffee"
+"weather.coffee",
+"google.coffee"
 ]
