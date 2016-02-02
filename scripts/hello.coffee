@@ -15,6 +15,8 @@ hellos = [
     "Hey %, Hello!",
     "Marnin', %",
     "Good day, %",
+    "Yo, %",
+    "Ssup, %",
     "Good 'aye!, %"
 ]
 mornings = [
